@@ -1,1 +1,4 @@
-# fastapi_market_basket
+# An AI Chatbot for Retail: FastAPI, LangChain, PostgreSQL, and Market Basket Analysis
+Leveraging Retrieval-Augmented Generation and Product Recommendations to Enhance Customer Engagement
+Since the launch of various chatbot technologies, many chatbots have been created using different tools and platforms. However, the real question is: what can a chatbot do? How can it create content or generate commercial value? These questions inspired me to develop a chatbot specifically designed for retail businesses.
+The Chatbot can answer customer questions and suggest related products. Whether users ask about product details, usage, or price, the chatbot retrieves the right information and provides recommendations based on customer preferences. This approach shows how AI can practically handle complex tasks.
